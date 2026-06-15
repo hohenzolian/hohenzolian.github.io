@@ -1,7 +1,7 @@
 ---
 title: CV
 icon: fas fa-file-alt
-order: 5
+order: 4
 --------
 
 # Curriculum Vitae
